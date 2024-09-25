@@ -1,3 +1,5 @@
+[![Step 6, Trigger Your Action](https://github.com/fndejong93/skills-write-javascript-actions/actions/workflows/6-trigger-action.yml/badge.svg)](https://github.com/fndejong93/skills-write-javascript-actions/actions/workflows/6-trigger-action.yml)
+
 <header>
 
 <!--
